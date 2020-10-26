@@ -1,0 +1,17 @@
+﻿English,AudioFile,Icon,Modality
+,blank.wav,aud.png,
+tea,tea.mp3,blank.png,AudInco
+,blank.wav,vis.png,
+vacuum,vacuum.mp3,blank.png,AudIrre
+,blank.wav,x.png,
+coffeepot,coffeepot.mp3,blank.png,AudNoG
+,blank.wav,x.png,
+orange,blank.wav,orange.png,VisNoG
+,blank.wav,vis.png,
+desk,blank.wav,desk.png,VisCong
+,blank.wav,nose.png,
+helmet,blank.wav,helmet.png,VisIrre
+,blank.wav,nose.png,
+can,can.mp3,blank.png,AudCong
+,blank.wav,aud.png,
+soap,blank.wav,soap.png,VisIncon
