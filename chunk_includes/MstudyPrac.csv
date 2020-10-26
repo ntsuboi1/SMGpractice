@@ -1,10 +1,10 @@
 ﻿English,AudioFile,Icon,Modality
 ,blank.wav,aud.png,
-tea,tea.mp3,blank.png,AudInco
+tea,tea.wav,blank.png,AudInco
 ,blank.wav,vis.png,
-vacuum,vacuum.mp3,blank.png,AudIrre
+vacuum,vacuum.wav,blank.png,AudIrre
 ,blank.wav,x.png,
-coffeepot,coffeepot.mp3,blank.png,AudNoG
+coffeepot,coffeepot.wav,blank.png,AudNoG
 ,blank.wav,x.png,
 orange,blank.wav,orange.png,VisNoG
 ,blank.wav,vis.png,
@@ -12,6 +12,6 @@ steeringwheel,blank.wav,steeringwheel.png,VisCong
 ,blank.wav,nose.png,
 helmet,blank.wav,helmet.png,VisIrre
 ,blank.wav,nose.png,
-can,can.mp3,blank.png,AudCong
+desk,desk.wav,blank.png,AudCong
 ,blank.wav,aud.png,
 washingmachine,blank.wav,washingmachine.png,VisIncon

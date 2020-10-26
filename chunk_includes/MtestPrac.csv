@@ -1,8 +1,8 @@
 ﻿Question,blank,English,AudioFile,CorResp
-Did you see or hear?,  ,coffeepot,coffeepot.mp3,Aud
-Did you see or hear?,  ,steeringwheel,steeringwheel.mp3,Vis
-Did you see or hear?,  ,helmet,helmet.mp3,Vis
-Did you see or hear?,  ,can,can.mp3,Aud
-Did you see or hear?,  ,tea,tea.mp3,Aud
-Did you see or hear?,  ,vacuum,vacuum.mp3,Aud
-Did you see or hear?,  ,washingmachine,washingmachine.mp3,Vis
+Did you see or hear?,  ,coffeepot,coffeepot.wav,Aud
+Did you see or hear?,  ,steeringwheel,steeringwheel.wav,Vis
+Did you see or hear?,  ,helmet,helmet.wav,Vis
+Did you see or hear?,  ,desk,desk.wav,Aud
+Did you see or hear?,  ,tea,tea.wav,Aud
+Did you see or hear?,  ,vacuum,vacuum.wav,Aud
+Did you see or hear?,  ,washingmachine,washingmachine.wav,Vis
