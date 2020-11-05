@@ -1,8 +1,12 @@
 ﻿Question,blank,English,AudioFile,CorResp
 Did you see or hear?,  ,coffeepot,coffeepot.wav,Aud
-Did you see or hear?,  ,steeringwheel,steeringwheel.wav,Vis
+Did you see or hear?,  ,steering wheel,steeringwheel.wav,Vis
+Did you see or hear?,  ,watch,guitar.wav,Vis
 Did you see or hear?,  ,helmet,helmet.wav,Vis
+Did you see or hear?,  ,guitar,watch.wav,Aud
 Did you see or hear?,  ,desk,desk.wav,Aud
 Did you see or hear?,  ,tea,tea.wav,Aud
 Did you see or hear?,  ,vacuum,vacuum.wav,Aud
-Did you see or hear?,  ,washingmachine,washingmachine.wav,Vis
+Did you see or hear?,  ,washing machine,washingmachine.wav,Vis
+Did you see or hear?,  ,pencil,pencil.wav,Aud
+Did you see or hear?,  ,computer,computer.wav,Vis
